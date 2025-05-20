@@ -5,4 +5,7 @@ To evaluate the implementation of currency conversion in a cloud-native analytic
 
 
 ![Databricks](https://github.com/user-attachments/assets/368f7d62-5b75-4ab3-aeba-89246238aa25)
+![Databricks_Scheduler](https://github.com/user-attachments/assets/ed4d33f5-8e2b-437d-8a33-37a411718c24)
+
+
 ![Fabric](https://github.com/user-attachments/assets/6202799e-20fd-4b6e-a60a-71a81c08661b)
