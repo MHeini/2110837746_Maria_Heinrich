@@ -24,3 +24,6 @@ Azure Databricks was selected as one of the two cloud environments for implement
 Microsoft Fabric was selected as the second platform for implementing the currency conversion use case, offering a fully managed Software-as-a-Service (SaaS) approach to analytics. In contrast to the infrastructure-as-a-service (IaaS) model used in Azure Databricks, Fabric abstracts compute and storage provisioning, allowing developers to focus solely on data engineering logic, business rules, and orchestra-tion workflows.
 
 ![Fabric](https://github.com/user-attachments/assets/6202799e-20fd-4b6e-a60a-71a81c08661b)
+
+
+[Mircosoft Fabric Pricing](https://azure.microsoft.com/de-de/pricing/details/microsoft-fabric/)
