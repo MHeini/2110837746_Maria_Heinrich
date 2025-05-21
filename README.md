@@ -6,11 +6,11 @@ To evaluate the implementation of currency conversion in a cloud-native analytic
 ### Scenario Definition
 The selected scenario mimics a global enterprise operating in serveral countries with more 15 currencies. Each legal entity conducts financial transactions in its lo-cal currency. For unified financial reporting, all transactions must be converted to euros (EUR) using official daily exchange rates. This mirrors challenges previously addressed using SSIS-based ETL pipelines and OLAP cubes in traditional data warehouses, which must now be replaced with scalable, cloud-native alternatives.
 
-Key challenges addressed in the scenario include:
-•	Accurate date-aligned matching of transaction and exchange rate records
-•	Handling of missing or delayed exchange rate entries (e.g., weekends, public holidays)
-•	Support for batch processing at scale using modern Python and Spark-based tools
-•	Export of enriched accounting data for downstream Power BI reporting   
+Key challenges addressed in the scenario include:   
+•	Accurate date-aligned matching of transaction and exchange rate records   
+•	Handling of missing or delayed exchange rate entries (e.g., weekends, public holidays)   
+•	Support for batch processing at scale using modern Python and Spark-based tools   
+•	Export of enriched accounting data for downstream Power BI reporting      
 
 
 Azure Databricks was selected as one of the two cloud environments for implementing the currency conversion use case due to its robust support for distributed data processing, seamless integration with the Azure ecosystem, and scalable architec-ture built on Apache Spark. This platform offers an ideal foundation for performing large-scale transformations and exploratory analytics in Python and SQL, while supporting advanced orchestration and security features needed for enterprise-grade development.
