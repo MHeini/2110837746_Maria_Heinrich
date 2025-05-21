@@ -20,8 +20,19 @@ Azure Databricks was selected as one of the two cloud environments for implement
 ![Databricks_Scheduler_01](https://github.com/user-attachments/assets/475232b8-52f6-4ccd-a08f-f001648a85cf)
 ![250521_Databricks_Abrechnung](https://github.com/user-attachments/assets/6e82cb0c-f579-4865-a599-1ab1130a4b24)
 
+[Azure Databricks Pricing](https://azure.microsoft.com/en-us/pricing/details/databricks/)
+
 
 Microsoft Fabric was selected as the second platform for implementing the currency conversion use case, offering a fully managed Software-as-a-Service (SaaS) approach to analytics. In contrast to the infrastructure-as-a-service (IaaS) model used in Azure Databricks, Fabric abstracts compute and storage provisioning, allowing developers to focus solely on data engineering logic, business rules, and orchestra-tion workflows.
+
+A dedicated Microsoft Fabric workspace was provisioned using the trial license tier. The setup details are summarized below:
+•	License Type: Trial
+•	License Capacity: Trial-20240905T162916Z-xxxxxxxxx
+•	SKU: FT1
+•	Region: North Europe
+
+Although categorized under the FT1 (Trial) SKU, the workspace internally allocated 64 Capacity Units (CU) - equivalent to the F64 SKU in production-grade deployments. This configuration enabled the execution of large-scale transformations, notebook operations, and pipeline scheduling without incurring additional cost during the evaluation period.
+
 
 ![Fabric](https://github.com/user-attachments/assets/6202799e-20fd-4b6e-a60a-71a81c08661b)
 
