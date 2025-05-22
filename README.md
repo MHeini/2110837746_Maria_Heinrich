@@ -18,6 +18,7 @@ Azure Databricks was selected as one of the two cloud environments for implement
 ![Databricks](https://github.com/user-attachments/assets/368f7d62-5b75-4ab3-aeba-89246238aa25)
 ![Databricks_Scheduler](https://github.com/user-attachments/assets/ed4d33f5-8e2b-437d-8a33-37a411718c24)
 ![Databricks_Scheduler_01](https://github.com/user-attachments/assets/475232b8-52f6-4ccd-a08f-f001648a85cf)
+![Databricks_Costs_1hour_usage_2_runs_log](https://github.com/user-attachments/assets/8051e944-5f30-4b46-b339-3f5d18715183)
 ![250521_Databricks_Abrechnung](https://github.com/user-attachments/assets/6e82cb0c-f579-4865-a599-1ab1130a4b24)
 
 [Azure Databricks Pricing](https://azure.microsoft.com/en-us/pricing/details/databricks/)
